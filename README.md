@@ -1,2 +1,3 @@
 # prueba1_GIT
-HOla como estas
+Buenas noches
+buenos dias y buenas tardes
